@@ -18,6 +18,8 @@ Developers, please see the
 See also the
 [goog.ui Demos](https://google.github.io/closure-library/source/closure/goog/demos/)
 
+> **Note:** this is a fork of the original closure-library, it is not intended to be installed using npm, instead, it is intended to be pulled as a git submodule for [@dnory0/node-blockly project](https://github.com/dnory0/node-blockly) to include the version that is compatible with the [blockly project](https://github.com/dnory0/blockly) (which is itself a submodule too), consider developing on [@dnory0/node-blockly project](https://github.com/dnory0/node-blockly).
+
 ## Using with Node.js
 Install the [official package](https://www.npmjs.com/package/google-closure-library) from npm.
 
