@@ -11,6 +11,7 @@
  */
 
 goog.module('goog.html.SafeStyleSheet');
+goog.provide('goog.html.SafeStyleSheet');
 goog.module.declareLegacyNamespace();
 
 const Const = goog.require('goog.string.Const');

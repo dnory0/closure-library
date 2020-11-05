@@ -9,6 +9,7 @@
  */
 
 goog.module('goog.events.BrowserFeature');
+goog.provide('goog.events.BrowserFeature');
 goog.module.declareLegacyNamespace();
 
 const googUserAgent = goog.require('goog.userAgent');

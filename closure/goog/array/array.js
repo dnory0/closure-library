@@ -8,7 +8,7 @@
  * @fileoverview Utilities for manipulating arrays.
  */
 
-
+goog.provide('goog.array');
 goog.module('goog.array');
 goog.module.declareLegacyNamespace();
 

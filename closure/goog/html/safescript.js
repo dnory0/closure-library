@@ -10,6 +10,7 @@
  * TODO(xtof): Link to document stating type contract.
  */
 
+goog.provide('goog.html.SafeScript');
 goog.module('goog.html.SafeScript');
 goog.module.declareLegacyNamespace();
 

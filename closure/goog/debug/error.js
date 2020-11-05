@@ -12,6 +12,7 @@
  * sufficient.
  */
 
+goog.provide('goog.debug.Error');
 goog.module('goog.debug.Error');
 goog.module.declareLegacyNamespace();
 
